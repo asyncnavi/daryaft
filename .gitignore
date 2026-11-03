@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+data/
+.audit/
+todo.md
+docs/journal/*-social.md
