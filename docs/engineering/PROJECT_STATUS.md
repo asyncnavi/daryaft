@@ -4,11 +4,11 @@ Updated 2026-11-03.
 
 ## Implemented
 
-Local Git initialization, repository-local personal identity and SSH configuration, shared agent instructions, draft foundation documentation, issue and PR templates, and a documentation CI workflow. The public repository is [asyncnavi/daryaft](https://github.com/asyncnavi/daryaft). Initial publication is authorized and the foundation commit is being prepared.
+Local Git initialization, repository-local personal identity and SSH configuration, shared agent instructions, draft foundation documentation, issue and PR templates, and a documentation CI workflow. The public repository is [asyncnavi/daryaft](https://github.com/asyncnavi/daryaft). The initial foundation commit `40793a8` is published on `main`.
 
 ## Not implemented
 
-Go and Python services, database schemas, Compose, API contracts, ingestion, retrieval, answering, authorization, application CI, or SDKs. Hosted documentation CI is unverified. Documentation is a design proposal, not evidence that these capabilities exist.
+Go and Python services, database schemas, Compose, API contracts, ingestion, retrieval, answering, authorization, application CI, or SDKs. The first hosted documentation CI run was in progress at the publication handoff. Documentation is a design proposal, not evidence that these capabilities exist.
 
 ## External blockers
 
