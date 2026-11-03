@@ -1,5 +1,7 @@
 # Daryaft (دریافت)
+Daryaft is a Persian word meaning “understanding”, “comprehension”, “acquisition” or “the act of receiving something.”
 
+## What it does ? 
 Find what your organisation knows.
 
 Daryaft is a planned open-source, self-hostable knowledge platform. Organisations will upload documents, organise collections, and ask questions with citations to sources they can access.
